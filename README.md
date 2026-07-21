@@ -47,6 +47,8 @@ Based in Brazil, open to remote roles
 **[Exploratory Data Analysis — Online Retail](https://github.com/FranciscoDegiovani/python-eda-retail)**
 End-to-end EDA on real UK e-commerce transaction data (541K+ records) — revenue analysis, seasonality, outlier investigation, and data storytelling with Python and Pandas.
 
+**[RNA-seq Differential Expression Analysis — DESeq2](https://github.com/FranciscoDegiovani/rnaseq-deseq2-airway)**
+Genomics/transcriptomics analysis identifying differentially expressed genes (DESeq2, R/Bioconductor) — reproducible workflow with statistical modeling, MA-plot, volcano plot, PCA, and heatmap visualization.
 ---
 
 ### Background
