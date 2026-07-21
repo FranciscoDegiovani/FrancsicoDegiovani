@@ -41,7 +41,8 @@ Based in Brazil, open to remote roles
 
 ### Featured Projects
 
-_Coming soon — check back for hands-on projects in SQL, exploratory data analysis, machine learning, and reproducible pipelines._
+**[SQL Practice — Chinook Database](https://github.com/FranciscoDegiovani/sql-chinook-analysis)**
+6 business-style SQL queries (joins, window functions, CTEs, subqueries) on a relational database, with tested and documented results.
 
 ---
 
